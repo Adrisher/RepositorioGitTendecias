@@ -1,0 +1,8 @@
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\bin\Debug\ServicioWeb_WCF.exe.config
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\bin\Debug\ServicioWeb_WCF.exe
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\bin\Debug\ServicioWeb_WCF.pdb
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\obj\Debug\ServicioWeb_WCF.csproj.AssemblyReference.cache
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\obj\Debug\ServicioWeb_WCF.csproj.SuggestedBindingRedirects.cache
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\obj\Debug\ServicioWeb_WCF.csproj.CoreCompileInputs.cache
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\obj\Debug\ServicioWeb_WCF.exe
+C:\QUINTO CICLO DESARROLLO DE SOFTWARE\TENDENCIAS ACTUALES DE PROGRAMACIÓN\Programacion\C#\ServicioWeb_WCF\ServicioWeb_WCF\obj\Debug\ServicioWeb_WCF.pdb
